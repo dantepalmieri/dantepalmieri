@@ -1,6 +1,6 @@
 ## Hi, I'm Dante.
-### I am currently an undergrad student pursuing a B.S. in Computer Engineering at Northern Arizona University.
-### Working @ NAU's Information Technology Services as a Desktop Support Technician.
+#### Currently an undergrad student pursuing a B.S. in Computer Engineering at Northern Arizona University.
+#### Working @ NAU's Information Technology Services as a Desktop Support Technician.
 
 <!--
 **dantepalmieri/dantepalmieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
