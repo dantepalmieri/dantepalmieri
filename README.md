@@ -1,5 +1,5 @@
 ## Hi, I'm Dante.
-#### Currently an undergrad student pursuing a B.S. in Computer Engineering at Northern Arizona University.
+#### Graduated from NAU with a B.S. in Computer Engineering in Spring 2026!
 #### Working @ NAU's Information Technology Services as a Desktop Support Technician.
 
 <!--
